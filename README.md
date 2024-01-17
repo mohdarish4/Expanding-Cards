@@ -1,3 +1,3 @@
 <h1>Expanding Cards</h1>
 
-An expanding card is a user interface component often used in web design to showcase content or information in a visually appealing and interactive way. The concept typically involves a set of cards, each representing a different item, topic, or piece of content. When a user interacts with a card, it expands to reveal more details, providing additional information or visuals.
+An expanding card is like a digital card that reveals more information when you click on it. Imagine you have a set of cards on a webpage, each with a picture and a title. Normally, you only see a bit of information. However, when you click on a card, it expands to show more details or a larger view of the content.
